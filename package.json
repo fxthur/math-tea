@@ -1,10 +1,10 @@
 {
   "name": "math-tea",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Project ngitung tapi buat tea-testnet",
   "main": "index.js",
   "type": "module",
-  "repository": "https://github.com/fxthur/hello-paktea.git",
+  "repository": "https://github.com/fxthur/math-tea.git",
   "author": "fxthur",
   "license": "ISC"
 }
